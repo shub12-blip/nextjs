@@ -59,6 +59,13 @@ export default function Home() {
             Documentation
           </a>
         </div>
+        <a
+          className="text-sm font-medium text-zinc-600 underline underline-offset-4 transition-colors hover:text-zinc-950 dark:text-zinc-400 dark:hover:text-zinc-50"
+          href="./https___www%20(1).pdf"
+          download="https___www (1).pdf"
+        >
+          Download backlink PDF
+        </a>
       </main>
     </div>
   );
