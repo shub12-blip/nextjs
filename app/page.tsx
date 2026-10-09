@@ -66,6 +66,12 @@ export default function Home() {
         >
           Download backlink PDF
         </a>
+        <a
+          className="text-sm font-medium text-zinc-600 underline underline-offset-4 transition-colors hover:text-zinc-950 dark:text-zinc-400 dark:hover:text-zinc-50"
+          href="./feed.xml"
+        >
+          RSS feed
+        </a>
       </main>
     </div>
   );
