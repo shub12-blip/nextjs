@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Live website
+
+Visit the project website at [www.aicsm.com](https://www.aicsm.com).
+
 ## Getting Started
 
 First, run the development server:
